@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do RPTecDev 
+## Bem-vindo(a) ao perfil do RPTecDev ![image](https://github.com/user-attachments/assets/2ce16eb0-c73b-4d7e-8a81-2ab742edcd82)
+
  ![Captura de tela 2024-10-04 194625](https://github.com/user-attachments/assets/5385d85d-b541-49f7-8e7d-9d31087fa384)
  <div>
    <a href="https://github.com/RPTecDev">
