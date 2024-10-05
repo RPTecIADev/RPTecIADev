@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do RPTecDev 🧑‍💻
+## Bem-vindo(a) ao perfil do RPTecDev 👨‍💻
 
  ![Captura de tela 2024-10-04 194625](https://github.com/user-attachments/assets/5385d85d-b541-49f7-8e7d-9d31087fa384)
  <div>
