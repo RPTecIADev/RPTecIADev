@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do RPTecIADev 👨‍💻
 
  <div>
-   <a href="https://github.com/RPTecIADev">
+   <a href="https://github.com/RPTecADev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RPTecDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecDev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
