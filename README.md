@@ -41,6 +41,8 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=dark)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
+
 ## 📊 GitHub Stats
 
 ![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
