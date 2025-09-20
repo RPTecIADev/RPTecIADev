@@ -34,6 +34,10 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
+
 ## 📊 GitHub Stats
 
 ![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
