@@ -1,6 +1,16 @@
-# Olá! Eu sou Rafael Rodrigues Pereira (RPTecIADev) 👋
+# Olá! Eu sou Rafael Rodrigues Pereira (@rpteciadev) 👋
 
 Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando três formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet.
+
+## 🌐 Pra conteúdo sobre programação me segue nas redes!
+
+<div> 
+  <a href="https://www.youtube.com/@RPTecDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rpteciadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rptecdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaelrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## 🏢 Atuação Profissional
 
@@ -9,8 +19,8 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 
 ## 📱 Especialidades
 
-- Programação (Frontend)
-- Manutenção e Reparo
+- Programação (Frontend): HTML, CSS e JavaScript
+- Manutenção e Reparo eletrônico
 - Resolução de Problemas
 - Inteligência Artificial Generativa
 - UX Design
