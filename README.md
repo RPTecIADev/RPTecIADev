@@ -10,7 +10,8 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rptecdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.dio.me/users/rrpgold" target="_blank"><img src="https://img.shields.io/badge/DIO%2C%20%238A2BE2%2C%20for-the-badge?style=for-the-badge&label=DIO&labelColor=%238A2BE2&color=%23FFFFF" target="_blank"></a> 
+  <a href="https://www.dio.me/users/rrpgold" target="_blank"><img src="https://img.shields.io/badge/Projeto-DIO-8A2BE2?labelColor=FFFFFF
+" target="_blank"></a> 
   
 
 </div>
