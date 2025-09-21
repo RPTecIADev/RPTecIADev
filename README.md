@@ -34,15 +34,32 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 Estou focado em absorver conhecimento técnico sobre o universo da Inteligência Artificial para entender como posso utilizar essas tecnologias na criação de sistemas inovadores para a resolução dos mais diversos problemas. Tenho me dedicado especialmente ao estudo de IA Generativa para acelerar meu aprendizado e desenvolvimento.
 
 ## 📌 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=dark)](https://github.com/RPTecIADev/VideoGames)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=dark)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="top">
+<a href="https://github.com/RPTecIADev/chrono-trigger" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dchrono-trigger%26theme%3Dtokyonight%26show_owner%3Dtrue" alt="Repositório do projeto Chrono Trigger">
+</a>
+</td>
+<td align="center" valign="top">
+<a href="https://github.com/RPTecIADev/VideoGames" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DVideoGames%26theme%3Dtokyonight%26show_owner%3Dtrue" alt="Repositório do projeto VideoGames">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DJSGame-Jo-Ken-po-Yu-Gi-Oh%26theme%3Dtokyonight%26show_owner%3Dtrue" alt="Repositório do projeto Jo-Ken-po Yu-Gi-Oh">
+</a>
+</td>
+<td align="center" valign="top">
+<a href="https://github.com/RPTecIADev/projeto-one-piece" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dprojeto-one-piece%26theme%3Dtokyonight%26show_owner%3Dtrue" alt="Repositório do projeto One Piece">
+</a>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
