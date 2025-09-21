@@ -45,7 +45,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 </td>
 <td align="center">
 <a href="https://github.com/RPTecIADev/VideoGames" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DVideoGames%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto VideoGames">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto VideoGames">
 </a>
 </td>
 </tr>
