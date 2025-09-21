@@ -35,22 +35,13 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
-<div>
-<tr>
-<a href="https://github.com/RPTecIADev/chrono-trigger">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dchrono-trigger%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto Chrono Trigger">
-</a>
-<td align="center">
-<a href="https://github.com/RPTecIADev/VideoGames">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DVideoGames%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto VideoGames">
-</a>
-<a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DJSGame-Jo-Ken-po-Yu-Gi-Oh%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto Jokenpo Yu-Gi-Oh">
-</a>
-<a href="https://github.com/RPTecIADev/projeto-one-piece">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dprojeto-one-piece%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto One Piece">
-</a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=dark)](https://github.com/RPTecIADev/VideoGames)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=dark)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
 
 ## 📊 GitHub Stats
 
