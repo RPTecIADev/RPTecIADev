@@ -35,14 +35,34 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=dark)](https://github.com/RPTecIADev/VideoGames)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=dark)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
-
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center">
+<a href="https://github.com/RPTecIADev/chrono-trigger" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dchrono-trigger%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto Chrono Trigger">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RPTecIADev/VideoGames" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DVideoGames%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto VideoGames">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DJSGame-Jo-Ken-po-Yu-Gi-Oh%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto Jokenpo Yu-Gi-Oh">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/RPTecIADev/projeto-one-piece" target="_blank">
+<img src="hhttps://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dprojeto-one-piece%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto One Piece">
+</a>
+</td>
+</tr>
+</table>
+</div>
 ## 📊 GitHub Stats
 
 ![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
