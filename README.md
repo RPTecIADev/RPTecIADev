@@ -39,30 +39,31 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 <table border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td align="center">
-<a href="https://github.com/RPTecIADev/chrono-trigger" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dchrono-trigger%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto Chrono Trigger">
+<a href="https://github.com/RPTecIADev/chrono-trigger">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dchrono-trigger%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto Chrono Trigger">
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/RPTecIADev/VideoGames" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto VideoGames">
+<a href="https://github.com/RPTecIADev/VideoGames">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DVideoGames%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto VideoGames">
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
-<a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DJSGame-Jo-Ken-po-Yu-Gi-Oh%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto Jokenpo Yu-Gi-Oh">
+<a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3DJSGame-Jo-Ken-po-Yu-Gi-Oh%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto Jokenpo Yu-Gi-Oh">
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/RPTecIADev/projeto-one-piece" target="_blank">
-<img src="hhttps://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dprojeto-one-piece%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26border_color%3D30363d%26border_radius%3D10" alt="Projeto One Piece">
+<a href="https://github.com/RPTecIADev/projeto-one-piece">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DRPTecIADev%26repo%3Dprojeto-one-piece%26bg_color%3D0d1117%26title_color%3D33ccff%26text_color%3Dc9d1d9%26icon_color%3D33ccff%26border_color%3D21262d%26border_radius%3D8" alt="Card do projeto One Piece">
 </a>
 </td>
 </tr>
 </table>
 </div>
+
 ## 📊 GitHub Stats
 
 ![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
