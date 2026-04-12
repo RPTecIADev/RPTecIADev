@@ -35,6 +35,21 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=matrix&border_radius=10" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/RPTecIADev/chrono-trigger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=matrix&border_radius=10" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=dark)](https://github.com/RPTecIADev/VideoGames)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
