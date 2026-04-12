@@ -63,7 +63,3 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 ## 🗣️ Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats-lyart-seven-12.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
-
-## 🏆 Troféus do GitHub
-
-![Trophies](https://github-readme-stats-lyart-seven-12.vercel.app/?username=RPTecIADev&theme=tokyonight)
