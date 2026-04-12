@@ -48,4 +48,4 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 🧠 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
