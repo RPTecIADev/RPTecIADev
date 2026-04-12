@@ -54,7 +54,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-6ua5huxbj.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-lyart-seven-12.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats (sequência de commits)
 
