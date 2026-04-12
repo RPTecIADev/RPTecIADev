@@ -41,6 +41,13 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
 
+### 📊 Minhas estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
 
 ## 📊 GitHub Stats
 
