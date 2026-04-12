@@ -1,7 +1,8 @@
 # Olá! Eu sou Rafael Rodrigues Pereira (@rpteciadev) 👋
 
 <div align="center">
-  <img src="https://gemini.google.com/share/c5a63b36a64c" alt="Descrição">
+  
+  <img src="https://gemini.google.com/share/c5a63b36a64c">
 </div>
 
 
