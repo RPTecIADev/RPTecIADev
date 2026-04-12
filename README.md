@@ -1,10 +1,6 @@
 # Olá! Eu sou Rafael Rodrigues Pereira (@rpteciadev) 👋
 
-<div align="center">
-  
-  <img src="https://gemini.google.com/share/c5a63b36a64c">
-</div>
-
+<img width="1312" height="816" alt="Gemini_Generated_Image_" src="https://github.com/user-attachments/assets/165a1996-0748-496a-baab-36aba2676ca4" />
 
 Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando quatro formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Inteligência Artificial, Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet.
 
