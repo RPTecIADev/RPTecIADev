@@ -11,8 +11,6 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
   <a href = "mailto:rpteciadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.dio.me/sign-up?ref=AF5JXY0TXLO5" target="_blank"><img src="https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
 </div>
 
 ## 🏢 Atuação Profissional
@@ -32,6 +30,37 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 ## 🚀 O que me motiva
 
 Estou focado em absorver conhecimento técnico sobre o universo da Inteligência Artificial para entender como posso utilizar essas tecnologias na criação de sistemas inovadores para a resolução dos mais diversos problemas. Tenho me dedicado especialmente ao estudo de IA Generativa para acelerar meu aprendizado e desenvolvimento.
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/RPTecIADev/projeto-one-piece">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto One Piece" width="95%">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto Yu-Gi-Oh" width="95%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/RPTecIADev/chrono-trigger">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto Chrono Trigger" width="95%">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/RPTecIADev/VideoGames">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight&hide_border=true&border_radius=10" alt="Repositório VideoGames" width="95%">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📌 Projetos em Destaque
 
