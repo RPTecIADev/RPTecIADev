@@ -33,52 +33,6 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/RPTecIADev/projeto-one-piece">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto One Piece" width="95%">
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto Yu-Gi-Oh" width="95%">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/RPTecIADev/chrono-trigger">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=tokyonight&hide_border=true&border_radius=10" alt="Projeto Chrono Trigger" width="95%">
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/RPTecIADev/VideoGames">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight&hide_border=true&border_radius=10" alt="Repositório VideoGames" width="95%">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📌 Projetos em Destaque
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=matrix&border_radius=10" width="100%">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/RPTecIADev/chrono-trigger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=matrix&border_radius=10" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=dark)](https://github.com/RPTecIADev/VideoGames)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=dark)](https://github.com/RPTecIADev/chrono-trigger)
