@@ -25,13 +25,13 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 - Programação (Frontend): HTML, CSS e JavaScript
 - Manutenção e Reparo eletrônico
 - Resolução de Problemas
-- Inteligência Artificial Generativa
+- Inteligência Artificial
 - UX Design
 - Large Language Models (LLMs)
 
 ## 🚀 O que me motiva
 
-Estou focado em absorver conhecimento técnico sobre o universo da Inteligência Artificial para entender como posso utilizar essas tecnologias na criação de sistemas inovadores para a resolução dos mais diversos problemas. Tenho me dedicado especialmente ao estudo de IA Generativa para acelerar meu aprendizado e desenvolvimento.
+Estou focado em absorver conhecimento técnico sobre o universo da Inteligência Artificial para entender como posso utilizar essas tecnologias na criação de sistemas inovadores para a resolução dos mais diversos problemas. Tenho me dedicado especialmente ao estudo de IA para acelerar meu aprendizado e desenvolvimento.
 
 ## 📌 Projetos em Destaque
 
