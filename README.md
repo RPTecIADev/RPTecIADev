@@ -41,18 +41,18 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=projeto-one-piece&theme=dark)](https://github.com/RPTecIADev/projeto-one-piece)
 
-### 📊 Minhas estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
 
-## 🧠 Linguagens Mais Usadas
+## 🔥 Streak Stats (sequência de commits)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
+
+## 🗣️ Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
+
+## 🏆 Troféus do GitHub
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RPTecIADev&theme=tokyonight&column=4)
