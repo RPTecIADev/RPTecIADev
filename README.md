@@ -22,10 +22,10 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 - **Agente de Organização Escolar** | Secretaria da Fazenda e Planejamento do Estado de São Paulo (2019 - Presente)
 - **Técnico em Eletrônica** | Autônomo (2013 - Presente)
 
-##🎓 Formação Tech
+## 🎓 Formação Tech
 
 - **Técnico em Eletrônica** | UniCesumar (Março/2025 - Presente)
-- **Técnico em \inteligência Artificial** | IFNMG Polo CEADI (Março/2026 - Presente)
+- **Técnico em Inteligência Artificial** | IFNMG Polo CEADI (Março/2026 - Presente)
 - **Técnico em Desenvolvimento de Sistemas** | FAT (Outubro/2024 - Abril/2025)
 - **Técnico em Informática para Internet** | FAT (Maio/2025 - Presente)
 
