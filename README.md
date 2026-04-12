@@ -10,7 +10,7 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
   <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rpteciadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="[https://www.dio.me/users/rrpgold](https://www.dio.me/sign-up?ref=AF5JXY0TXLO5)" target="_blank"><img src="https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.dio.me/sign-up?ref=AF5JXY0TXLO5" target="_blank"><img src="https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
 </div>
@@ -46,7 +46,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats">
+![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
 
 ## 🧠 Linguagens Mais Usadas
 
