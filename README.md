@@ -43,7 +43,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight&locale=pt_BR)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats (sequência de commits)
 
@@ -51,7 +51,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 🗣️ Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight&locale=pt_BR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
 
 ## 🏆 Troféus do GitHub
 
