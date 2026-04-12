@@ -44,7 +44,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📊 GitHub Stats
 
-![RPTecIADev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
 
 ## 🧠 Linguagens Mais Usadas
 
