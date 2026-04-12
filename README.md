@@ -1,6 +1,6 @@
 # Olá! Eu sou Rafael Rodrigues Pereira (@rpteciadev) 👋
 
-Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando quatro formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Inteligência Artificial, Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet. Também sou Embaixador Universitário Alumni DIO, a maior plataforma de educação impulsionada por IA para aprender tecnologia da América Latina.
+Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando quatro formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Inteligência Artificial, Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet. Também sou Embaixador Universitário Alumni da DIO, a maior plataforma de educação impulsionada por IA para aprender tecnologia da América Latina.
 
 <div align="center">
 <img width="1312" height="816" alt="Gemini_Generated_Image_" src="https://github.com/user-attachments/assets/165a1996-0748-496a-baab-36aba2676ca4" />
