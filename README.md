@@ -19,8 +19,9 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 
 ## 🏢 Atuação Profissional
 
-- **Agente de Organização Escolar** | Secretaria da Fazenda e Planejamento do Estado de São Paulo (2019 - Presente)
-- **Técnico em Eletrônica** | Autônomo (2013 - Presente)
+- **Estagiário de TI** | Prefeitura de São Caetano do Sul - SEEDUC (Maio/2026 - Presente)
+- **Agente de Organização Escolar** | Secretaria da Fazenda e Planejamento do Estado de São Paulo (Julho/2019 - Presente)
+- **Técnico em Eletrônica** | Autônomo (Julho/2013 - Presente)
 
 ## 🎓 Formação Tech
 
