@@ -27,9 +27,10 @@ Sou um profissional com sólida experiência em manutenção de hardware e eletr
 
 - **Tecnólogo em Inteligência Artificial e Machine Learning** | UniCesumar (Março/2025 - Presente)
 - **Técnico em Inteligência Artificial** | IFNMG Polo CEADI (Março/2026 - Presente)
-- **Técnico em Desenvolvimento de Sistemas** | FAT (Outubro/2024 - Abril/2026)
 - **Técnico em Informática para Internet** | FAT (Maio/2025 - Presente)
-
+- **Técnico em Desenvolvimento de Sistemas** | FAT (Outubro/2024 - Abril/2026)
+- **Técnico em Eletrônica** | ETEC Lauro Gomes (Agosto/2011 - Julho/2013)
+  
 ## 📱 Especialidades
 
 - Programação (Frontend): HTML, CSS e JavaScript
