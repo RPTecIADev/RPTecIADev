@@ -56,7 +56,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.herokuapp.app/api?username=RPTecIADev&show_icons=true&theme=shadow_blue)
+![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=RPTecIADev&show_icons=true&theme=shadow_blue)
 
 ## 🔥 Streak Stats (sequência de commits)
 
