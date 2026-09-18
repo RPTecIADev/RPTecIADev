@@ -46,22 +46,22 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats-lyart-seven-12.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight)](https://github.com/RPTecIADev/VideoGames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight)](https://github.com/RPTecIADev/VideoGames)
 
-[![Readme Card](https://github-readme-stats-lyart-seven-12.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=tokyonight)](https://github.com/RPTecIADev/chrono-trigger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=tokyonight)](https://github.com/RPTecIADev/chrono-trigger)
 
-[![Readme Card](https://github-readme-stats-lyart-seven-12.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
-[![Readme Card](https://github-readme-stats-lyart-seven-12.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)(https://github.com/RPTecIADev/JSGame-Demencia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Demencia)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-lyart-seven-12.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPTecIADev&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats (sequência de commits)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
 
 ## 🗣️ Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats-lyart-seven-12.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
