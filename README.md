@@ -58,10 +58,14 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight)](https://github.com/RPTecIADev/VideoGames)
 
+## 💪 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
 ## 🗣️ Linguagens mais usadas
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RPTecIADev&layout=compact&theme=tokyonight)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats
 
