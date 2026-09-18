@@ -52,9 +52,9 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=conecta_tech&theme=tokyonight)](https://github.com/RPTecIADev/conecta_tech)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=rpteciadev.github.io&theme=tokyonight)](https://rpteciadev.github.io/)
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight)](https://github.com/RPTecIADev/VideoGames)
 
