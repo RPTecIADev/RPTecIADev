@@ -52,7 +52,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Demencia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?user=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Demencia)
 
 ## 📊 GitHub Stats
 
