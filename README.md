@@ -68,7 +68,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 🔥 Streak Stats (sequência de commits)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
+![GitHub Streak](https://github-stats-extended.vercel.app/?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
 
 ## 🗣️ Linguagens mais usadas
 
