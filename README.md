@@ -1,4 +1,4 @@
-# Olá! Eu sou Rafael Rodrigues Pereira (@RPTecIADev) 👋
+# Olá! Eu sou Rafael Rodrigues Pereira (@RPTecIADev) 💻👋
 
 Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando três formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Inteligência Artificial e Técnico em Informática para Internet. Também sou Embaixador Universitário Alumni da DIO, a maior plataforma de educação impulsionada por IA para aprender tecnologia da América Latina.
 
