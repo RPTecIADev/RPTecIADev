@@ -1,4 +1,4 @@
-# Olá! Eu sou Rafael Rodrigues Pereira (@rpteciadev) 👋
+# Olá! Eu sou Rafael Rodrigues Pereira (@RPTecIADev) 👋
 
 Sou um profissional com sólida experiência em manutenção de hardware e eletrônica que está em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando quatro formações simultaneamente: Tecnólogo em Inteligência Artificial e Machine Learning, Técnico em Inteligência Artificial, Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet. Também sou Embaixador Universitário Alumni da DIO, a maior plataforma de educação impulsionada por IA para aprender tecnologia da América Latina.
 
@@ -68,7 +68,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 🔥 Streak Stats (sequência de commits)
 
-![GitHub Streak](https://github-stats-streak-extended.vercel.app/?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPTecIADev&theme=tokyonight&locale=pt_BR)
 
 ## 🗣️ Linguagens mais usadas
 
