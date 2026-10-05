@@ -47,14 +47,11 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 ## 📌 Projetos em Destaque
 
 <table>
-<tr>
-    <td width="50%">
+
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Demencia)
-    </td>
-    <td width="50%">
+
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=chrono-trigger&theme=tokyonight)](https://github.com/RPTecIADev/chrono-trigger)
-    </td>
-</tr>
+
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Jo-Ken-po-Yu-Gi-Oh&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Jo-Ken-po-Yu-Gi-Oh)
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=conecta_tech&theme=tokyonight)](https://github.com/RPTecIADev/conecta_tech)
