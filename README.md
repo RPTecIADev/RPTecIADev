@@ -63,6 +63,7 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
   <tr>
     <td width="50%">
       <h3>🏴‍☠️ Projeto One Piece</h3>
+      <img src="https://rpteciadev.github.io/projeto-one-piece/" width="100%">
       <p>Descrição rápida do projeto, tecnologias utilizadas (ex: HTML, CSS, JavaScript) e o que ele resolve.</p>
       <a href="link-do-seu-repo">Ver Repositório</a> | <a href="link-do-deploy">Live Demo</a>
     </td>
