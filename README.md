@@ -46,7 +46,6 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 ## 📌 Projetos em Destaque
 
-<table>
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=JSGame-Demencia&theme=tokyonight)](https://github.com/RPTecIADev/JSGame-Demencia)
 
@@ -60,6 +59,31 @@ Estou focado em absorver conhecimento técnico sobre o universo da Inteligência
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=RPTecIADev&repo=VideoGames&theme=tokyonight)](https://github.com/RPTecIADev/VideoGames)
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏴‍☠️ Projeto One Piece</h3>
+      <p>Descrição rápida do projeto, tecnologias utilizadas (ex: HTML, CSS, JavaScript) e o que ele resolve.</p>
+      <a href="link-do-seu-repo">Ver Repositório</a> | <a href="link-do-deploy">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>🚗 SZPC GTA 6</h3>
+      <p>Detalhes sobre a arquitetura do projeto, documentação e principais recursos implementados.</p>
+      <a href="link-do-seu-repo">Ver Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⏳ Chrono Trigger</h3>
+      <p>Visão geral do desenvolvimento e estrutura deste repositório inspirado no clássico.</p>
+      <a href="link-do-seu-repo">Ver Repositório</a> | <a href="link-do-deploy">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>🃏 JSGame Jo-Ken-Po Yu-Gi-Oh</h3>
+      <p>Lógica de jogo implementada em JavaScript baseada no universo de Yu-Gi-Oh.</p>
+      <a href="link-do-seu-repo">Ver Repositório</a> | <a href="link-do-deploy">Live Demo</a>
+    </td>
+  </tr>
 </table>
 
 ## 💪 My Skills
